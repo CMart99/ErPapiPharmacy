@@ -9,9 +9,9 @@
 * Mockups:
   
   ![Home Screen]()
-  ![Register Screen] (https://bit.ly/2VbGXrQ)
+  ![Register Screen](https://bit.ly/2VbGXrQ)
   ![Login Screen]()
-  ![Shop Screen]()
+  ![Shop Screen](https://bit.ly/2vzrRNG)
   ![User Profile Screen]()
   
 * Bibliography: 
