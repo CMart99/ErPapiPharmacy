@@ -9,7 +9,7 @@
 * Mockups:
   
   ![Home Screen]()
-  ![Register Screen](https://bit.ly/2VbGXrQ)
+  ![Register Screen] (https://bit.ly/2VbGXrQ)
   ![Login Screen]()
   ![Shop Screen]()
   ![User Profile Screen]()
