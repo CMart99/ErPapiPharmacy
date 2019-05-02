@@ -1,19 +1,20 @@
-* #### Nombre de la Aplicación: ErPapi Pharmacy.
+* #### App Name: ErPapi Pharmacy.
 
-* #### Integrantes del grupo: Manuel Alba, Juan Lora, Carlos Martínez.
+* #### Group Members: Manuel Alba, Juan Lora, Carlos Martínez.
 
-* Introducción a la aplicación: la aplicación se basa en una farmacia online, en la que los usuarios se pueden registrar para comprar los medicamentos. Además, tras la compra, pueden dejar un comentario valorando, por ejemplo, tanto el proceso de compra como la rapidez del envío. También pueden obtener ayuda en el momento, gracias al chat de atención al cliente incorporado en la primera página, así como contactar con nosotros a través de un formulario de contacto, en el apartado "Contact Us".
+* App info: this app is based on an online pharmacy, on which the users can register in order to buy medicines. Also, after completing the shopping transaction, customers can leave their feedback on, for example, from the shopping process to the shipping time. They can also get help instantly thanks to the in-built customer support chat, located on the firt page, whereas contacting as via contact form, by clicking on "Contact Us".
 
-* Herramientas usadas: Mockflow, Adobe Photoshop, Lucid Chart.
+* Used Tools: Mockflow, Adobe Photoshop, Lucid Chart.
 
 * Mockups:
   
-  ![Pantalla Home]()
-  ![Pantalla Register]()
-  ![Pantalla Login]()
-  ![Pantalla Tienda]()
+  ![Home Screen]()
+  ![Register Screen]()
+  ![Login Screen]()
+  ![Shop Screen]()
+  ![User Profile Screen]()
   
-* Bibliografía: 
+* Bibliography: 
 
   [MockFlow](https://mockflow.com/)
 
