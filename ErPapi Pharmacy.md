@@ -6,6 +6,13 @@
 
 * Herramientas usadas: Mockflow, Adobe Photoshop, Lucid Chart.
 
+* Mockups:
+  
+  ![Pantalla Home]()
+  ![Pantalla Register]()
+  ![Pantalla Login]()
+  ![Pantalla Tienda]()
+  
 * Bibliografía: 
 
   [MockFlow](https://mockflow.com/)
