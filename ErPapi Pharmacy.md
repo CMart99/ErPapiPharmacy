@@ -11,7 +11,7 @@
   ![Home Screen](https://bit.ly/2UUChBW)
   ![Register Screen](http://bit.ly/2IVRuB1)
   ![Login Screen](http://bit.ly/2WjssyF)
-  ![Shop Screen](https://gyazo.com/36ff0ef843ed07bcfded431e9ac2de3c)
+  ![Shop Screen](https://i.gyazo.com/36ff0ef843ed07bcfded431e9ac2de3c.png)
   
 * Bibliography: 
 
