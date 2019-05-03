@@ -8,16 +8,15 @@
 
 * Mockups:
   
-  ![Home Screen]()
+  ![Home Screen](https://bit.ly/2UUChBW)
   ![Register Screen](https://bit.ly/2VbGXrQ)
   ![Login Screen]()
   ![Shop Screen](https://bit.ly/2vzrRNG)
-  ![User Profile Screen]()
   
 * Bibliography: 
 
   [MockFlow](https://mockflow.com/)
 
   [LucidChart](<https://www.lucidchart.com/>)
-
-  
+ 
+* [UML Schema](https://drive.google.com/open?id=17Crs0jKCde-UOBrqdNd26kCunVy2C24n)
