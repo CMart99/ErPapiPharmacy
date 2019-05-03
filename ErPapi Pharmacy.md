@@ -9,9 +9,9 @@
 * Mockups:
   
   ![Home Screen](https://bit.ly/2UUChBW)
-  ![Register Screen](https://bit.ly/2VbGXrQ)
-  ![Login Screen]()
-  ![Shop Screen](https://bit.ly/2vzrRNG)
+  ![Register Screen](http://bit.ly/2IVRuB1)
+  ![Login Screen](http://bit.ly/2WjssyF)
+  ![Shop Screen](http://bit.ly/2Y1UUFR)
   
 * Bibliography: 
 
@@ -19,4 +19,4 @@
 
   [LucidChart](<https://www.lucidchart.com/>)
  
-* [UML Schema](https://drive.google.com/open?id=17Crs0jKCde-UOBrqdNd26kCunVy2C24n)
+* [UML Schema](https://drive.google.com/open?id=17Crs0jKCde-UOBrqdNd26kCunVy2C24n/view)
